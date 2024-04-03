@@ -17,6 +17,8 @@ public class DatabaseJavaexmpl {
  */
 		//don't hardcode the db credentials , to hide use below format
 		
+		//made changes by QA1
+		
 		ResourceBundle rbl= ResourceBundle.getBundle("config");
 		String urls=rbl.getString("url");
 		String uname=rbl.getString("username");
