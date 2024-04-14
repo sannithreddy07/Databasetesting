@@ -30,7 +30,7 @@ public class DatabaseJavaexmpl {
 		
 		Statement stmnt=con.createStatement();
 		
-		//storing sql query in astring variable
+		//storing sql query in a string variable
 		
 		//String s="insert into employdetails values(111,'gana','inactive',32400,TO_DATE('08-03-2023','dd-mm-yyyy'))";
 		//String s="update employdetails set emphiredate=TO_DATE('08-03-2023','dd-mm-yyyy') where empid=105";
